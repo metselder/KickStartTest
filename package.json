@@ -1,0 +1,27 @@
+{
+  "name": "kickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etherlime": "^1.0.3",
+    "ethers": "^4.0.27",
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.4.1",
+    "mocha": "^6.0.2",
+    "next": "^4.1.4",
+    "next-routes": "^1.4.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.35"
+  }
+}
